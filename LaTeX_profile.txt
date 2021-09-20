@@ -1,0 +1,25 @@
+What you get with this Offer
+LaTeX is a high-quality typesetting system intended for the production of technical and scientific documents.
+
+This is a professional service of typesetting, designing, and formatting technical documents and books with LaTeX.
+
+Service highlights:
+
+1. Typing mathematical equations.
+2. Creating tables.
+3. Placing figures (all images/graphics must be provided and will be inserted as JPEG or PNG images).
+4. Formatting chapters, sections, headers, footers, footnotes/endnotes, references, etc.
+5. Creating Beamer Presentations.
+6. Converting PDF / Word Documents to LateX.
+7. Converting manuscripts to LaTeX.
+8. Make Resume in Latex.
+
+Disclaimer:
+
+• This offer is for 10-pages, simple technical documents. For very complex technical and scientific projects, please, contact me detailing your specific needs.
+• I can only 100% guarantee the files will work on Overleaf.
+• Currently, I can only process text in Latin-based characters.
+
+I appreciate your consideration and look forward to hearing from you.
+What the Freelancer needs to start the work
+I need well-typed documents or clear images. For handwritten documents, the content must be legible and understandable.
