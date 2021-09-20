@@ -1,0 +1,5 @@
+# Ignore IDE files# Ignore IDE files
+
+LaTeX_profile.txt
+Screenshot_20210920_114716.png
+./*.cpp
